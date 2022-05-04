@@ -1,5 +1,3 @@
-import "./styles/app.css";
-
 import AppWrapper from "./AppWrapper";
 import Header from "./Header";
 import NavLeftMenu from "./NavLeftMenu";
